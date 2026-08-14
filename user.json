@@ -1,10 +1,10 @@
 [
   {
-  "username": "kaffcrash",
-  "password": "kaff"
-},
+    "username": "kaffcrash",
+    "password": "kaff"
+  },
   {
-  "username": "kaffadmin",
-  "password": "adminkaff"
-}
+    "username": "kaffadmin",
+    "password": "adminkaff"
+  }
 ]
