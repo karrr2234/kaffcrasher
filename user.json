@@ -1,8 +1,12 @@
-{
+[
+  {
   "username": "kaffcrash",
   "password": "kaff"
-},
-{
+}
+]
+[
+  {
   "username": "kaffadmin",
   "password": "adminkaff",
 }
+]
